@@ -1,4 +1,4 @@
-CFLAGS = -std=c99 -Wall -pedantic D-DLIST  
+CFLAGS = -std=c99 -Wall -pedantic   
 CC =gcc
 
 all: tree.o
